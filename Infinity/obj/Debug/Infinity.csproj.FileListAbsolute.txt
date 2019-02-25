@@ -1,0 +1,10 @@
+C:\Users\phoen\Desktop\Sources\NewInfinityloader\Infinity\bin\Debug\Infinity.exe.config
+C:\Users\phoen\Desktop\Sources\NewInfinityloader\Infinity\bin\Debug\Infinity.exe
+C:\Users\phoen\Desktop\Sources\NewInfinityloader\Infinity\bin\Debug\Infinity.pdb
+C:\Users\phoen\Desktop\Sources\NewInfinityloader\Infinity\obj\Debug\Infinity.csprojAssemblyReference.cache
+C:\Users\phoen\Desktop\Sources\NewInfinityloader\Infinity\obj\Debug\Infinity.Main.resources
+C:\Users\phoen\Desktop\Sources\NewInfinityloader\Infinity\obj\Debug\Infinity.Properties.Resources.resources
+C:\Users\phoen\Desktop\Sources\NewInfinityloader\Infinity\obj\Debug\Infinity.csproj.GenerateResource.cache
+C:\Users\phoen\Desktop\Sources\NewInfinityloader\Infinity\obj\Debug\Infinity.csproj.CoreCompileInputs.cache
+C:\Users\phoen\Desktop\Sources\NewInfinityloader\Infinity\obj\Debug\Infinity.exe
+C:\Users\phoen\Desktop\Sources\NewInfinityloader\Infinity\obj\Debug\Infinity.pdb
